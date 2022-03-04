@@ -1,4 +1,4 @@
-# zabbix-templates
+# zabbix 4 templates
  Complete templates for Zabbix 4.0
  
 ## UPS Templates 
