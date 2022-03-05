@@ -3,3 +3,5 @@
  
 ## UPS Templates 
  InteliLite 4 AMF8 Zabbix 4 Template
+## OLT Templates 
+ ZTE TITAN C600 Zabbix 4 Template
