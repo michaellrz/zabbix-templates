@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>4.0</version>
+    <date>2022-03-07T15:59:29Z</date>
+    <value_maps>
+        <value_map>
+            <name>ZTE Card Accessories Status</name>
+            <mappings>
+                <mapping>
+                    <value>0</value>
+                    <newvalue>N/D</newvalue>
+                </mapping>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Up</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Down</newvalue>
+                </mapping>
+                <mapping>
+                    <value>3</value>
+                    <newvalue>Testing</newvalue>
+                </mapping>
+                <mapping>
+                    <value>4</value>
+                    <newvalue>Unknow</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>ZTE Card Admin Status</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Reset</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Switch</newvalue>
+                </mapping>
+                <mapping>
+                    <value>3</value>
+                    <newvalue>Stop Service</newvalue>
+                </mapping>
+                <mapping>
+                    <value>4</value>
+                    <newvalue>Active</newvalue>
+                </mapping>
+                <mapping>
+                    <value>5</value>
+                    <newvalue>Deactive</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>ZTE Card Operational Status</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>In Service</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Not Service</newvalue>
+                </mapping>
+                <mapping>
+                    <value>3</value>
+                    <newvalue>Hw Online</newvalue>
+                </mapping>
+                <mapping>
+                    <value>4</value>
+                    <newvalue>Hw Offline</newvalue>
+                </mapping>
+                <mapping>
+                    <value>5</value>
+                    <newvalue>Configuring</newvalue>
+                </mapping>
+                <mapping>
+                    <value>6</value>
+                    <newvalue>Config Failed</newvalue>
+                </mapping>
+                <mapping>
+                    <value>7</value>
+                    <newvalue>Type Mismatch</newvalue>
+                </mapping>
+                <mapping>
+                    <value>8</value>
+                    <newvalue>Deactived</newvalue>
+                </mapping>
+                <mapping>
+                    <value>9</value>
+                    <newvalue>Faulty</newvalue>
+                </mapping>
+                <mapping>
+                    <value>10</value>
+                    <newvalue>Invalid</newvalue>
+                </mapping>
+                <mapping>
+                    <value>11</value>
+                    <newvalue>No Power</newvalue>
+                </mapping>
+                <mapping>
+                    <value>12</value>
+                    <newvalue>Unauthorized</newvalue>
+                </mapping>
+                <mapping>
+                    <value>13</value>
+                    <newvalue>Admin Down</newvalue>
+                </mapping>
+                <mapping>
+                    <value>34</value>
+                    <newvalue>Power Saving</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>ZTE Card Standby Status</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Main</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>Standby</newvalue>
+                </mapping>
+                <mapping>
+                    <value>15</value>
+                    <newvalue>Unknown</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+        <value_map>
+            <name>ZTE ONU Status</name>
+            <mappings>
+                <mapping>
+                    <value>-80000</value>
+                    <newvalue>No Signal received</newvalue>
+                </mapping>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>Logging</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>LOS</newvalue>
+                </mapping>
+                <mapping>
+                    <value>3</value>
+                    <newvalue>SyncMib</newvalue>
+                </mapping>
+                <mapping>
+                    <value>4</value>
+                    <newvalue>Working</newvalue>
+                </mapping>
+                <mapping>
+                    <value>5</value>
+                    <newvalue>DyingGasp</newvalue>
+                </mapping>
+                <mapping>
+                    <value>6</value>
+                    <newvalue>AuthFailed</newvalue>
+                </mapping>
+                <mapping>
+                    <value>7</value>
+                    <newvalue>Offline</newvalue>
+                </mapping>
+                <mapping>
+                    <value>65535000</value>
+                    <newvalue>Is not in service</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+    </value_maps>
+</zabbix_export>
